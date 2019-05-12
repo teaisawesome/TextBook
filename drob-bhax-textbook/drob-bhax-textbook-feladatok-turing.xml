@@ -380,7 +380,7 @@ false]]></screen>
             <title>PageRank algoritmus</title>
             <mediaobject>
                 <imageobject>
-                <imagedata fileref="/home/dekanyrobert/Dokumentumok/prog1/drob-bhax-textbook/PR.png" format="PNG"/>
+                <imagedata fileref="PR.png" format="PNG"/>
                 </imageobject>
             </mediaobject>
         </figure>

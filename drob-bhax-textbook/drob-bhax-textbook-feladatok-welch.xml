@@ -625,7 +625,7 @@
             <title>Bejaras</title>
             <mediaobject>
                 <imageobject>
-                <imagedata fileref="/home/dekanyrobert/Dokumentumok/prog1/drob-bhax-textbook/orders.png" format="PNG"/>
+                <imagedata fileref="orders.png" format="PNG"/>
                 </imageobject>
             </mediaobject>
             </figure>

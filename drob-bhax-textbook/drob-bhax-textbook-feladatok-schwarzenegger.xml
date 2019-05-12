@@ -154,7 +154,7 @@
             <title>Bátfai tanár úr ábrája a megjelenített számokról a MNIST-ben.</title>
             <mediaobject>
                 <imageobject>
-                <imagedata fileref="/home/dekanyrobert/Képek/mnist42.png" format="PNG"/>
+                <imagedata fileref="mnist42.png" format="PNG"/>
                 </imageobject>
             </mediaobject>
         </figure>
